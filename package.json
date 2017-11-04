@@ -1,0 +1,11 @@
+{
+  "name": "import-sort-style-jmacedo",
+  "version": "0.0.0",
+  "description": "João Macedo's personal import-sort style",
+  "main": "lib/index.js",
+  "author": "João Macedo (https://github.com/renke)",
+  "license": "ISC",
+  "devDependencies": {
+    "import-sort-style": "^3.0.0",
+  }
+}
